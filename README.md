@@ -1,0 +1,2 @@
+# dynamic_webpage_template
+This webpage has a modern design composed by multiple combinations of light or dark violet, grey, white or soft purple. It is created in HTML, CSS and jQuery. Also, can be used in whatever field the user wants by adding informations in text tags or paragraph tags or even changing the images. Not least, it’s a responsive page that’s work efficiently on mobile/tablet platforms.
